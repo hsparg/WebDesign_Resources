@@ -62,6 +62,10 @@
 <li><a href="www.freecodecamp.com">Free Code Camp</a></li>
 </ul>
 
+<h2>Design</h2>
+<ul><li><a href="https://www.useronboard.com/">User Onboard</a></li>
+<ul><li><a href="http://www.designerslist.info/">designers list</a></li>
+
 <h2> Texas Tech Resources</h2>
 <ul><li><a href="http://www.depts.ttu.edu/ithelpcentral/solutions/myweb/">Free Web Hosting!</a>
     <ul><li> The school will host student websites up to 2GB.</li></ul>
