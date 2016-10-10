@@ -1,11 +1,11 @@
 # WebDesign_Resources
 <em>* All of these resources should be free </em>
+
 <h2>Getting Started</h2> 
 <ul><li><a href="http://overapi.com/">OverAPI</a>
 <ul><li> Contains cheet sheets for tons of languages</li></ul>
 <li><a href="http://www.new2code.com/">How to Start - Learning Code</a></li>
 <li><a href="https://www.lucidchart.com/blog/2016/09/22/which-programming-language-should-i-learn-first/">Infograph on which lanuage you should learn first </a></li></ul>
-
 </ul></li></ul>
 
 <h2>CSS</h2>
@@ -52,8 +52,23 @@
 <ul><li><a href="https://www.facebook.com/groups/1594816820775537/">Newbie Coder Warehouse</a></li></ul>
 
 <h2>Ineractive Challenges </h2> 
-<ul><li><a href="https://www.hackerrank.com/">Hacker Rank</a></li></ul>
-<ul><li><a href="https://www.codingame.com">Codingame</a></li></ul>
+<ul><li><a href="https://www.hackerrank.com/">Hacker Rank</a></li>
+<li><a href="https://www.codingame.com">Codingame</a></li></ul>
+
+<h2> Learn to Code Websites </h2>
+<ul><li><a href="https://teamtreehouse.com">Team Treehouse (Free for the first month)</a></li>
+<li><a href="https://www.codecademy.com">Codecademy</a></li>
+<li><a href="https://library.ttu.edu/lynda/">Lynda (Free for TTU Students)</a></li>
+<li><a href="www.freecodecamp.com">Free Code Camp</a></li>
+</ul>
+
+<h2> Texas Tech Resources<h2/>
+<ul><li><a href="http://www.depts.ttu.edu/ithelpcentral/solutions/myweb/">Free Web Hosting!</a>
+    <ul><li> The school will host student websites up to 2GB.</li></ul>
+<ul><li><a href="http://library.ttu.edu/services/technology/dms/index.php">Equipment Rentals!</a>
+    <ul><li>The Digital Media Studio located on the second floor of the library lets you check out SLR cameras, Go Pros, voice recorders, projectors, and much more.</li></ul>
+</li></ul>
+
 
 <h2>Books</h2>
 <ul><li><a href="https://speckyboy.com/free-web-design-ebooks-2014/">50 Free eBooks for Web Designers &amp; Developers</a></li></ul>
