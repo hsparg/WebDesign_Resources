@@ -62,7 +62,7 @@
 <li><a href="www.freecodecamp.com">Free Code Camp</a></li>
 </ul>
 
-<h2> Texas Tech Resources<h2/>
+<h2> Texas Tech Resources</h2>
 <ul><li><a href="http://www.depts.ttu.edu/ithelpcentral/solutions/myweb/">Free Web Hosting!</a>
     <ul><li> The school will host student websites up to 2GB.</li></ul>
 <ul><li><a href="http://library.ttu.edu/services/technology/dms/index.php">Equipment Rentals!</a>
