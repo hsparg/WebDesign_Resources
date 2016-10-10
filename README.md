@@ -65,7 +65,7 @@
 <h2> Texas Tech Resources</h2>
 <ul><li><a href="http://www.depts.ttu.edu/ithelpcentral/solutions/myweb/">Free Web Hosting!</a>
     <ul><li> The school will host student websites up to 2GB.</li></ul>
-<ul><li><a href="http://library.ttu.edu/services/technology/dms/index.php">Equipment Rentals!</a>
+<li><a href="http://library.ttu.edu/services/technology/dms/index.php">Equipment Rentals!</a>
     <ul><li>The Digital Media Studio located on the second floor of the library lets you check out SLR cameras, Go Pros, voice recorders, projectors, and much more.</li></ul>
 </li></ul>
 
