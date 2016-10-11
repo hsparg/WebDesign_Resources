@@ -73,6 +73,9 @@
     <ul><li>The Digital Media Studio located on the second floor of the library lets you check out SLR cameras, Go Pros, voice recorders, projectors, and much more.</li></ul>
 </li></ul>
 
+<h2> Class Sites  </h2> 
+<li><a href="http://myweb.ttu.edu/cmeyers/acom4311/">Convergence in Agricultural Media - ACOM 4311</a>
+<li><a href="http://tgiddens.ba.ttu.edu/">Internet Programming | Data Communications | DataBase Management Systems</a>
 
 <h2>Books</h2>
 <ul><li><a href="https://speckyboy.com/free-web-design-ebooks-2014/">50 Free eBooks for Web Designers &amp; Developers</a></li></ul>
