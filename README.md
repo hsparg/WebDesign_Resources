@@ -17,6 +17,7 @@
 <li><a href="http://www.sketchingwithcss.com/samplechapter/cheatsheet.html">The ULTIMATE Flexbox Cheat Sheet</a></li>
 <li><a href="http://postcss.parts/tag/analysis">PostCss.parts</a></li>
 <li><a href="http://www.csszengarden.com/">CSS Zen Garden</a></li>
+<li><a href="https://hackhands.com/70-Expert-Ideas-For-Better-CSS-Coding/">70 Expert Ideas for Better CSS Coding</a>
 </ul>
 
 <h2>HTML5</h2>
@@ -72,6 +73,11 @@
 <h2>SEO</h2>
 <ul>
 <li><a href="http://www.seoindiarank.in/blogs/importance-of-meta-tags-for-websites/">The Importance of Meta Tags for Websites</a></li>
+</ul>
+
+<h2>Creating a Portfolio</h2>
+<ul>
+    <li><a href="https://medium.freecodecamp.com/i-reviewed-fifty-portfolios-on-reddit-and-this-is-what-i-learned-e5d2b43150bc#.vqt9v5guf"> What I Learned From Reviewing 50 Portfolios in 3 Days on Reddit</a></li>
 </ul>
 
 <h2> Texas Tech Resources</h2>
