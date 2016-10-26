@@ -2,6 +2,7 @@
 <em>* All of these resources should be free </em>
 
 <h2>Getting Started</h2> 
+<li><a href="http://rickwest.co.uk/start-learning-web-development">Where do I start</a></li>
 <ul><li><a href="http://overapi.com/">OverAPI</a>
 <ul><li> Contains cheet sheets for tons of languages</li></ul>
 <li><a href="http://www.new2code.com/">How to Start - Learning Code</a></li>
@@ -15,7 +16,6 @@
 <li><a href="http://www.sketchingwithcss.com/samplechapter/cheatsheet.html">The ULTIMATE Flexbox Cheat Sheet</a></li>
 <li><a href="http://postcss.parts/tag/analysis">PostCss.parts</a></li>
 <li><a href="http://www.csszengarden.com/">CSS Zen Garden</a></li>
-
 </ul>
 
 <h2>HTML5</h2>
@@ -64,7 +64,14 @@
 
 <h2>Design</h2>
 <ul><li><a href="https://www.useronboard.com/">User Onboard</a></li>
-<li><a href="http://www.designerslist.info/">designers list</a></li></ul>
+<li><a href="http://www.designerslist.info/">designers list</a></li>
+<li><a href="https://www.siteinspire.com/">Site Inspire</a></li>
+</ul>
+
+<h2>SEO</h2>
+<ul>
+<li><a href="http://www.seoindiarank.in/blogs/importance-of-meta-tags-for-websites/">The Importance of Meta Tags for Websites</a></li>
+</ul>
 
 <h2> Texas Tech Resources</h2>
 <ul><li><a href="http://www.depts.ttu.edu/ithelpcentral/solutions/myweb/">Free Web Hosting!</a>
