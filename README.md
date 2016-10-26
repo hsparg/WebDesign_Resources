@@ -2,8 +2,9 @@
 <em>* All of these resources should be free </em>
 
 <h2>Getting Started</h2> 
+<ul>
 <li><a href="http://rickwest.co.uk/start-learning-web-development">Where do I start</a></li>
-<ul><li><a href="http://overapi.com/">OverAPI</a>
+<li><a href="http://overapi.com/">OverAPI</a>
 <ul><li> Contains cheet sheets for tons of languages</li></ul>
 <li><a href="http://www.new2code.com/">How to Start - Learning Code</a></li>
 <li><a href="https://www.lucidchart.com/blog/2016/09/22/which-programming-language-should-i-learn-first/">Infograph on which lanuage you should learn first </a></li></ul>
