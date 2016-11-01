@@ -4,6 +4,7 @@
 <h2>Getting Started</h2> 
 <ul>
 <li><a href="http://rickwest.co.uk/start-learning-web-development">Where do I start</a></li>
+<li><a href="http://www.rookiemag.com/2016/08/computer-programming-101/">Rookie - Computer Programming 101</a></li>
 <li><a href="http://overapi.com/">OverAPI</a>
 <ul><li> Contains cheet sheets for tons of languages</li></ul>
 <li><a href="http://www.new2code.com/">How to Start - Learning Code</a></li>
