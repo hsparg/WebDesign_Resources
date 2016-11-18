@@ -72,6 +72,12 @@
 <li><a href="https://www.siteinspire.com/">Site Inspire</a></li>
 </ul>
 
+<h2>Audio</h2>
+<ul><li><a href="https://www.youtube.com/channel/UC_aEa8K-EOJ3D6gOs7HcyNg">No Copyright Sounds</a></li>
+<li><a href="http://www.designerslist.info/">designers list</a></li>
+<li><a href="https://www.siteinspire.com/">Site Inspire</a></li>
+</ul>
+
 <h2>SEO</h2>
 <ul>
 <li><a href="http://www.seoindiarank.in/blogs/importance-of-meta-tags-for-websites/">The Importance of Meta Tags for Websites</a></li>
