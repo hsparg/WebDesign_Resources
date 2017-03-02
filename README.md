@@ -31,7 +31,7 @@
 <ul>
 <li><a href="http://rogerdudler.github.io/git-guide/">Git - The Simple Guide</a></li>
 <li><a href="http://ndpsoftware.com/git-cheatsheet.html#loc=index;">Git CheatSheet</a></li>
-<ul><li><a href="https://opensource.com/business/16/6/10-tips-new-github-projects">10 Tips for New GitHub Projects</a></li></ul>
+<li><a href="https://opensource.com/business/16/6/10-tips-new-github-projects">10 Tips for New GitHub Projects</a></li></ul>
 
 <h2>Responsive Website Design</h2> 
 <ul>
