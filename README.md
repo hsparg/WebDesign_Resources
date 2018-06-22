@@ -105,5 +105,5 @@
 <h2>Books</h2>
 <ul><li><a href="https://speckyboy.com/free-web-design-ebooks-2014/">50 Free eBooks for Web Designers &amp; Developers</a></li></ul>
 
-<h2>Genreal Resources</h2>
-<ul><li><a href="https://www.oreilly.com/topics/web-programming"></a>O'Reilly</li></ul>
+<h2>Genereal Resources</h2>
+<ul><li><a href="https://www.oreilly.com/topics/web-programming">O'Reilly</a></li></ul>
