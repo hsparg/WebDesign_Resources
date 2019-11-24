@@ -23,6 +23,7 @@
 
 <h2>HTML5</h2>
 <ul>
+<li><a href="http://htmlshell.com/">HTML Shell</a></li>
 <li><a href="http://websitesetup.org/html5-cheat-sheet/">HTML5 Cheat Sheet</a></li>
 <li><a href="http://wtfhtmlcss.com/">WTF, HTML and CSS?</a></li>
 </ul>
