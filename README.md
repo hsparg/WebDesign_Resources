@@ -74,8 +74,22 @@
 <li><a href="http://www.designerslist.info/">designers list</a></li>
 <li><a href="https://www.siteinspire.com/">Site Inspire</a></li>
 <li><a href="https://onepagelove.com/">One Page Love</a></li>
+<li><a href="https://creativemarket.com/free-goods">Creative Market</a></li>
 </ul>
 
+<h2>Colors</h2>
+<ul><li><a href="https://www.grabient.com/">Grabient</a></li>
+<li><a href="https://subcolor.github.io/">Subcolor</a></li>
+</ul>
+
+<h2>Icons</h2>
+<ul><li><a href="https://fontawesome.com/">FontAwesome</a></li>
+<li><a href="https://material.io/resources/icons/?style=round">Material Icons</a></li>
+<li><a href="https://iconmonstr.com/">Material Icons</a></li>
+<li><a href="https://www.glyphy.io/">Glyphy</a></li>
+</ul>
+    
+    
 <h2>Audio</h2>
 <ul><li><a href="https://www.youtube.com/channel/UC_aEa8K-EOJ3D6gOs7HcyNg">No Copyright Sounds</a></li>
 <li><a href="http://www.designerslist.info/">designers list</a></li>
