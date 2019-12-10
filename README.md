@@ -103,7 +103,7 @@
     <li><a href="https://www.cssmatic.com/box-shadow">Box Shadow Generator</a>
     <ul>
         <li><a href="https://css-tricks.com/fun-times-css-pixel-art/">Pixal Art</a></li>
-    <ul>
+    </ul>
 </li>        
 </ul>
 
