@@ -98,7 +98,7 @@
 
 <h2>Tools</h2>
 <ul>
-    <li><a href="https://https://bennettfeely.com/clippy/>Clippy</a></li>
+    <li><a href="https://https://bennettfeely.com/clippy/">Clippy</a></li>
 </ul>
 
 <h2>Icons</h2>
