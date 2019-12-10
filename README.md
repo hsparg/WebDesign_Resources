@@ -99,6 +99,7 @@
 <h2>Tools</h2>
 <ul>
     <li><a href="https://bennettfeely.com/clippy/">Clippy</a></li>
+    <li><a href="https://css-tricks.com/the-shapes-of-css/">Shapes of CSS</a></li>
 </ul>
 
 <h2>Icons</h2>
