@@ -81,6 +81,7 @@
 <h2>Colors</h2>
 <ul><li><a href="https://www.grabient.com/">Grabient</a></li>
 <li><a href="https://subcolor.github.io/">Subcolor</a></li>
+<li><a href="https://coolors.co/461220-8c2f39-b23a48-fcb9b2-fed0bb">Coolors (Skillshare - 2 Months Free)</a></li>
 </ul>
 
 <h2>Icons</h2>
