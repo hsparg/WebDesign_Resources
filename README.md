@@ -100,10 +100,11 @@
 <ul>
     <li><a href="https://bennettfeely.com/clippy/">Clippy</a></li>
     <li><a href="https://css-tricks.com/the-shapes-of-css/">Shapes of CSS</a></li>
-    <li><a href="https://www.cssmatic.com/box-shadow">Box Shadow Generator</a><li>
+    <li><a href="https://www.cssmatic.com/box-shadow">Box Shadow Generator</a>
     <ul>
         <li><a href="https://css-tricks.com/fun-times-css-pixel-art/">Pixal Art</a></li>
     <ul>
+</li>        
 </ul>
 
 <h2>Icons</h2>
