@@ -98,6 +98,7 @@
 
 <h2>Tools</h2>
 <ul>
+    <li><a href="http://www.heropatterns.com/">Hero Pattern</a></li>
     <li><a href="https://bennettfeely.com/clippy/">Clippy</a></li>
     <li><a href="https://css-tricks.com/the-shapes-of-css/">Shapes of CSS</a></li>
     <li><a href="https://www.cssmatic.com/box-shadow">Box Shadow Generator</a>
