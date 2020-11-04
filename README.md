@@ -38,6 +38,13 @@
 <li><a href="https://opensource.com/business/16/6/10-tips-new-github-projects">10 Tips for New GitHub Projects</a></li>
 </ul>
 
+<h2>Editors</h2>
+<ul>
+    <li><a href="https://jsbin.com/?html,output">JS Bin</a></li>
+    <li><a href="https://codepen.io/your-work/">Code Pen</a></li>
+    <li><a href="https://catswhocode.com/online-code-editor/">Best Online Editors</a></li>
+</ul>
+
 <h2>Responsive Website Design</h2> 
 <ul>
 <li><a href="http://screensiz.es/phone">Screen Sizes</a></li>
@@ -162,3 +169,5 @@
 <ul>
     <li><a href="https://www.oreilly.com/topics/web-programming">O'Reilly</a></li>
 </ul>
+
+
