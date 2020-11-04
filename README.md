@@ -24,6 +24,11 @@
 <li><a href="https://hackhands.com/70-Expert-Ideas-For-Better-CSS-Coding/">70 Expert Ideas for Better CSS Coding</a>
 </ul>
 
+<h2> More CSS Notes</h2>
+<ul>
+    <li><a href="https://24ways.org/2016/css-writing-modes">Writing Modes</a></li>
+</ul>
+
 <h2>HTML5</h2>
 <ul>
 <li><a href="http://htmlshell.com/">HTML Shell</a></li>
