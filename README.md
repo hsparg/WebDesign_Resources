@@ -28,7 +28,17 @@
 <ul>
     <li><a href="https://24ways.org/2016/css-writing-modes">Writing Modes</a></li>
     <li><a href="https://css4-selectors.com/selectors/">Selectors</a>
+    <li><a href=""></a></li>
 </ul>
+
+<h2>CSS - Key Frames</h2>
+<li><a href="https://projects.verou.me/animatable/">Animatable</a></li>
+<li><a href="https://cubic-bezier.com/#.17,.67,.83,.67">Cubic-Bezier</a></li>
+<li><a href="https://css-tricks.com/almanac/properties/t/transition/">CSS Tricks Transitions</a></li>
+<li><a href="https://thoughtbot.com/blog/transitions-and-transforms">CSS Transitions and Transforms for Beginners</a></li>
+<li><a href="https://easings.net/en">Easings</a></li>
+<li><a href="https://matthewlein.com/tools/ceaser">Ceaser Easing Animation Tool</a></li>
+
 
 <h2>HTML5</h2>
 <ul>
