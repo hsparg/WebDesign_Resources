@@ -27,6 +27,7 @@
 <h2> More CSS Notes</h2>
 <ul>
     <li><a href="https://24ways.org/2016/css-writing-modes">Writing Modes</a></li>
+    <li><a href="https://css4-selectors.com/selectors/">Selectors</a>
 </ul>
 
 <h2>HTML5</h2>
