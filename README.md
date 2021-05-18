@@ -31,6 +31,17 @@
     <li><a href=""></a></li>
 </ul>
 
+<h2>Design</h2>
+<ul>
+    <li><a href=""></li>
+</ul>    
+
+<h2>Stock Photos</h2>
+<ul>
+    <li><a href="https://unsplash.com/s/photos/paper-background">Unsplash</li>
+    <li><a href=""></li>
+</ul>
+
 <h2>CSS - Key Frames</h2>
 <li><a href="https://projects.verou.me/animatable/">Animatable</a></li>
 <li><a href="https://cubic-bezier.com/#.17,.67,.83,.67">Cubic-Bezier</a></li>
